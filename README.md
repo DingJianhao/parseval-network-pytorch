@@ -30,7 +30,7 @@ If "--parseval", the training will actavate the use of orthogonal_retraction and
 
 Test accuracy:
 
-<p align="center"><img width="40%" src="./test_acc.svg"></p>
+<p align="center"><img width="90%" src="./test_acc.svg"></p>
 
 The orange line is the result of the above first script, while the blue line is the result of the above first script.
 
